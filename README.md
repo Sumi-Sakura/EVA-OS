@@ -4,8 +4,8 @@
 
 # **EVA OS — Real-Time Multimodal AIOS for the Next Generation Hardware**
 
-> ⚡ Real-time · 📡 WebRTC · 🎙️ Multi-Voice · 🧠 EVA-flash · 🔌 Embedded Ready  
->  
+> ⚡ Real-time · 📡 WebRTC · 🎙️ Multi-Voice · 🧠 EVA-flash · 🔌 Embedded Ready
+>
 > Multimodal interaction powering intelligent devices · Instantly upgrade any hardware into a real-time multimodal AI terminal
 
 ![Image](https://github.com/user-attachments/assets/becd21cd-f5f8-46c4-a8f5-6d11ddb73ac9)
@@ -14,12 +14,12 @@
 
 **[2025-12-07] Release · EVA OS v1.0.0 Officially Launched!**
 
-* ​**🎧 Full Duplex Interaction**​: millisecond-level latency, supports barge-in during conversations, achieving truly human-like real-time dialogue
-* **🛠️ MCP Tools Suite**​: built-in weather forecast, web search, smart map and more utilities, works out-of-the-box
-* **🎙️ Multi-Voice TTS Engine**​: added 10+ humanlike voices (emotional voices, professional broadcast voices and so on), switch in one click within a Solution
-* ​**🧠 Agent Workflow / Multi-Agent Collaboration System**​: enables cross-capability cooperation for complex tasks such as poem creation and story generation
-* ​**🔑 SDK Release / Fully Open Source**​: iOS & Android SDKs are now completely opensourced, providing zero-barrier hardware integration
-* ​**🌐 LiveKit Deep Optimization**​: ultra-low latency full-duplex communication
+- ​**🎧 Full Duplex Interaction**​: millisecond-level latency, supports barge-in during conversations, achieving truly human-like real-time dialogue
+- **🛠️ MCP Tools Suite**​: built-in weather forecast, web search, smart map and more utilities, works out-of-the-box
+- **🎙️ Multi-Voice TTS Engine**​: added 10+ humanlike voices (emotional voices, professional broadcast voices and so on), switch in one click within a Solution
+- ​**🧠 Agent Workflow / Multi-Agent Collaboration System**​: enables cross-capability cooperation for complex tasks such as poem creation and story generation
+- ​**🔑 SDK Release / Fully Open Source**​: iOS & Android SDKs are now completely opensourced, providing zero-barrier hardware integration
+- ​**🌐 LiveKit Deep Optimization**​: ultra-low latency full-duplex communication
 
 ## 🔮 About EVA OS · Core Positioning
 
@@ -30,28 +30,30 @@ Through the EVA platform, developers can quickly create Solutions (AI Agents) wi
 > Core Benefits: EVA-flash model permanently free | Mobile SDK 100% open source | ESP32/RK/MCU embedded SDK coming soon
 
 ![Image](https://github.com/user-attachments/assets/4815de5b-4f2f-4ab7-8803-8d4445781d0c)
+
 ## **🧠 The Vision Behind EVA OS**
 
 Our belief:
 
-* Foundation models are merely “neurons”
-* AI hardware needs a “nervous system”
-* **EVA OS aims to become the nervous system of next-generation AI devices**
+- Foundation models are merely “neurons”
+- AI hardware needs a “nervous system”
+- **EVA OS aims to become the nervous system of next-generation AI devices**
 
 ![Image](https://github.com/user-attachments/assets/c2a7f170-b0e9-44d5-ad6d-cd830fcfe328)
+
 ### **AIOS (AI Operating System)** is defined as “the nervous system of next-generation AI hardware”
 
-* **​Interaction Layer：​** From **single-modality** to **multi-modality**  
+- **​Interaction Layer：​** From **single-modality** to **multi-modality**  
   The system can simultaneously understand text, speech, images, video, etc. It also supports barge-in, speech interruption, and real-time responsiveness, making AI “converse like a human.”
 
-* **​Memory Layer：** ​From **text** memory to **multimodal** memory
+- **​Memory Layer：** ​From **text** memory to **multimodal** memory
   And from **storage-based** memory to **parameterized** memory.  
   The AI remembers not only text, but also images, audio, and contextual modalities —- making memory deeper and more integrated.
 
-* **Execution Layer：** From **simple API calls to complex reasoning**
+- **Execution Layer：** From **simple API calls to complex reasoning**
   EVA OS evolves from executing fixed commands to performing logical reasoning and solving complex tasks.
 
-* **Persona Layer (Representation)：** From **programmed behavior to model-driven dynamics**  
+- **Persona Layer (Representation)：** From **programmed behavior to model-driven dynamics**  
   The AI’s “persona” becomes dynamic, adaptive, and humanlike—shaped by large model reasoning rather than rigid code.
 
 ## **✨ EVA OS 1.0 Features**
@@ -60,44 +62,44 @@ Our belief:
 
 #### 🧠 EVA-flash: Hardware-Friendly Real-Time Multimodal LM
 
-* Streaming architecture with response latency as low as 300ms
-* Native multimodal support: speech, vision, text
-* Lightweight optimization for mid-range hardware
+- Streaming architecture with response latency as low as 300ms
+- Native multimodal support: speech, vision, text
+- Lightweight optimization for mid-range hardware
 
 #### 📱 Full-Stack Open-Source SDK · Zero Barrier Integration
 
-* iOS/Android SDK fully open source with detailed demos
-* ESP32/RK/MCU embedded SDK in final testing
-* Best-practice samples for IoT / toys / speakers
+- iOS/Android SDK fully open source with detailed demos
+- ESP32/RK/MCU embedded SDK in final testing
+- Best-practice samples for IoT / toys / speakers
 
 #### 😲 Digital Avatar Engine
 
-* Real-time lip-sync
-* Multiple default avatars included
-* Custom user-generated avatars coming soon
+- Real-time lip-sync
+- Multiple default avatars included
+- Custom user-generated avatars coming soon
 
 #### 🔊 Multi-Voice Audio/Video Interaction
 
-* 10+ humanlike voices with emotional modulation
-* Full-duplex communication with natural barge-in
-* Smart auto-response + customizable greetings
+- 10+ humanlike voices with emotional modulation
+- Full-duplex communication with natural barge-in
+- Smart auto-response + customizable greetings
 
 #### 🌐 WebRTC Global Real-Time Connectivity
 
-* Real-time audio/video streaming
-* Truly full-duplex—no: more “waiting for reply” gaps
+- Real-time audio/video streaming
+- Truly full-duplex—no: more “waiting for reply” gaps
 
 #### 🧩 Highly Configurable AI Agent Framework
 
-* Custom prompt templates for education, home, office, etc.
-* Multi-Agent routing for complex task orchestration
-* Built-in MCP tools for personalized functions
+- Custom prompt templates for education, home, office, etc.
+- Multi-Agent routing for complex task orchestration
+- Built-in MCP tools for personalized functions
 
 #### 🌍 Ecosystem Matrix · Full-Scenario AI Hardware Coverage
 
-* Unified Solution API Key supporting mainstream hardware
-* Fully open resources: SDKs, sample projects, docs
-* [Coming Soon]: Embedded system SDK, edge-cloud collaboration, embodied intelligence APIs
+- Unified Solution API Key supporting mainstream hardware
+- Fully open resources: SDKs, sample projects, docs
+- [Coming Soon]: Embedded system SDK, edge-cloud collaboration, embodied intelligence APIs
 
 ---
 
@@ -109,9 +111,9 @@ Visit: **https://eva.autoarkai.com**
 
 Create:
 
-* Solution
-* Configure Voices, Prompts, Tools, Agents
-* Obtain API Key
+- Solution
+- Configure Voices, Prompts, Tools, Agents
+- Obtain API Key
 
 **2️⃣ Use API Key to Generate a LiveKit Token**
 
@@ -127,21 +129,21 @@ Refer to React Native example:
 
 ### **✅ Completed**
 
-* 🎧 Real-time full-duplex audio/video interaction
-* ⚡ EVA-flash real-time multimodal LM 
-* 🧩 Solution (AI Agent) framework
-* 🔑 API Key device access
-* 📱 iOS & Android SDK fully open source
-* 🛠️ Built-in MCP Tools
+- 🎧 Real-time full-duplex audio/video interaction
+- ⚡ EVA-flash real-time multimodal LM
+- 🧩 Solution (AI Agent) framework
+- 🔑 API Key device access
+- 📱 iOS & Android SDK fully open source
+- 🛠️ Built-in MCP Tools
 
 ### 🚀 Coming Soon
 
-* 🔌 Embedded SDK: ESP32/RK/MCU hardware-level integration
-* ☁️ Edge-Cloud Collaboration: cloud compute scheduling + precise device-side command delivery
-* 🧠 Intelligent Memory: short-term interaction memory + long-term preference memory
-* 🔧 MCP Tool Extensions: third-party tool integration
-* 🎭 Custom Digital Avatars: generate avatars from costomized photos
-* 🏢 Enterprise Features: hybrid model deployment + high-concurrency solutions
+- 🔌 Embedded SDK: ESP32/RK/MCU hardware-level integration
+- ☁️ Edge-Cloud Collaboration: cloud compute scheduling + precise device-side command delivery
+- 🧠 Intelligent Memory: short-term interaction memory + long-term preference memory
+- 🔧 MCP Tool Extensions: third-party tool integration
+- 🎭 Custom Digital Avatars: generate avatars from costomized photos
+- 🏢 Enterprise Features: hybrid model deployment + high-concurrency solutions
 
 ---
 
@@ -153,19 +155,19 @@ EVA’s vision: empower every device with autonomous interaction, execution, and
 
 You are welcome whether you are:
 
-* App developers  
-* IoT / toy / smart home device/ robotics creators  
-* Embedded engineers (ESP32 / RK / STM32)  
-* DIY makers
+- App developers
+- IoT / toy / smart home device/ robotics creators
+- Embedded engineers (ESP32 / RK / STM32)
+- DIY makers
 
 You can contribute:
 
-* PRs (optimize mobile SDK)
-* Embedded integration examples
-* Tutorials / documentation
-* New language SDKs
-* Device-side demos
-* Issues / feature requests
+- PRs (optimize mobile SDK)
+- Embedded integration examples
+- Tutorials / documentation
+- New language SDKs
+- Device-side demos
+- Issues / feature requests
 
 **Let’s build the most open and complete real-time multimodal AI hardware ecosystem—together!**
 
